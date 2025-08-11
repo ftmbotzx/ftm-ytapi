@@ -9,8 +9,11 @@
   },
   "keywords": [],
   "author": "ftmdeveloperz",
-  "license": "ISC",
-  "dependencies": {
-    "axios": "^1.11.0"
+  "license": "ISC","dependencies": {
+    "@types/node": "^22.13.11",
+    "axios": "^1.11.0",
+    "crypto-js": "^4.2.0",
+    "express": "^5.1.0",
+    "localdb-json": "^1.0.6"      
   }
 }
